@@ -73,7 +73,8 @@
   margin: 10px 0;
 }
 
-.get-started-button {
+.get-started-button, 
+.checkout-button {
   padding: 15px 25px;
   font-size: 23px;
   border: none;
@@ -85,7 +86,8 @@
   margin-top: 40px;
 }
 
-.get-started-button:hover {
+.get-started-button:hover,
+.checkout-button:hover {
   background-color: #45a049;
 }
 
